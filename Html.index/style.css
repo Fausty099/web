@@ -1,0 +1,20 @@
+article {
+    height: 400px;
+    width: 30%;
+    background-color: mediumseagreen;
+}
+div {
+    height: 400px;
+    width: 100%;
+    background-color: greenyellow;
+    display: flex;
+}
+.first {
+    width: 30%;
+    height: 400px;
+}
+.second {
+    width: 30%;
+    height: 400px;
+    background-color: goldenrod;
+}
